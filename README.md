@@ -7,3 +7,5 @@ Historical Weather Data Collection using GitHub Actions
 ## Temperatures in the past 30 days in Iowa City
 
 [Web visual](https://changhuixu.github.io/historical-weather-data/)
+
+
